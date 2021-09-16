@@ -4,7 +4,7 @@
 * [Tasks](#second-bullet-point) 
 
 
-Team: Andres, Julia
+Team: Andres, Julia, Diana
 
 ### Business Case <a class="anchor" id="first-bullet-point"></a>
 
