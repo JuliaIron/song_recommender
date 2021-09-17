@@ -1,4 +1,4 @@
-# Song Recommender Project with web scraping and Spotify API
+# Song Recommender Project with Web Scraping and Spotify API
 
 Team: Andres, Julia, Diana
 
