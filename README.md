@@ -29,13 +29,13 @@ That's precisely where you come. They have hired you as a Data Analyst, and they
 
 ### Build with <a class="anchor" id="fourth-bullet-point"></a>
 
-* ![Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+* Spotify Web API
 * Spotipy - Python wrapper for Spotify Web API
 
 ### Unsupervised Machine Learning <a class="anchor" id="fifth-bullet-point"></a>
 
 * K-Means
-* ![Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+* Beautiful Soup
 * Scikit-learn with StandardScaler
 * Pickle Python
 
